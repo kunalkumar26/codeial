@@ -1,0 +1,7 @@
+.post-card:hover .delete-icon {
+    display: block;
+}
+
+.delete-icon {
+    display: none;
+}
